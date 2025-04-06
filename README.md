@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌙 Get Your Eid Card – Personalized Eid Greetings
 
-## Getting Started
+Create and share beautifully designed **personalized Eid cards** with your loved ones.  
+Choose from stunning templates, add your own message, and make this Eid truly special!
 
-First, run the development server:
+🔗 **Live App:** [eid-card-sigma.vercel.app](https://eid-card-sigma.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🌟 Beautiful Eid card templates
+- 🖊️ Customizable messages
+- 💌 Instant share/download option
+- 💻 Responsive design for all devices
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **TypeScript**
+- **Next.js (v15)**
+- **Tailwind CSS**
+- **shadcn/ui**
+- **Custom Eid Card Generator**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚀 Topics
 
-## Deploy on Vercel
+`typescript` `nextjs` `eid-card` `eid` `tailwindcss` `shadcn` `nextjs15` `eid-card-generator`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📸 Preview
+
+![Eid Card Preview](https://eid-card-sigma.vercel.app/preview-image.png) <!-- Replace with actual preview if available -->
+
+---
+
+## 📬 Contributions
+
+Feel free to fork, customize, or contribute ideas for more templates or features!  
+Let’s spread joy this Eid, one card at a time 💖
+
+---
+
+## 🧕 Eid Mubarak!
